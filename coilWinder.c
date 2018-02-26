@@ -69,7 +69,7 @@ int y2=0;                                    //zmienna fazy silnika2
 
 
 //speed
-const int speedPot = A1; // potencjometr pod³¹czony do pinu analogowego A1
+const int speedPot = A1; // potencjometr podÂ³Â¹czony do pinu analogowego A1
 int generalInterval = 200;
 
 
