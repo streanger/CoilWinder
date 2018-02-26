@@ -57,7 +57,7 @@ int regulationValue;
  *   4 - otwieranie
  *   2 - zamykanie
  *   3 - stop
- *   (2 i 4 mog¹ byæ odwrotnie :) )
+ *   (2 i 4 mogÂ¹ byÃ¦ odwrotnie :) )
  */
 int direct = 3;       //stop
 
